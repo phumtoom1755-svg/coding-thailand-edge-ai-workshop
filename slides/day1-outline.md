@@ -432,6 +432,10 @@ Confusion Matrix = โมเดลตอบได้แค่ไหน
 
 ถ้าจุดยังปนกัน ให้กลับไปเช็ก class definition, วิธีเก็บ, และ bias ก่อนรีบ train รอบใหม่
 
+ภาพดูเร็ว: ซ้าย = แยกคลาสดี, ขวา = ข้อมูลยังปนกัน
+
+<img src="../assets/feature-explorer-good-vs-mixed.svg" alt="Diagram comparing clean Feature Explorer clusters with mixed overlapping clusters" width="760" />
+
 ---
 
 ### อ่าน Confusion Matrix
@@ -462,6 +466,10 @@ Actual  A   [40]   3    7    ← class A 80% accuracy
 
 Test: ทดลอง inference จริง!
 ```
+
+flow จำง่าย: build ใน Edge Impulse, import ใน App Lab, แล้วทดสอบบนบอร์ดจริง
+
+<img src="../assets/deploy-flow-edge-impulse-to-board.svg" alt="Deployment flow from Edge Impulse through Arduino App Lab to Arduino UNO Q" width="820" />
 
 ---
 
