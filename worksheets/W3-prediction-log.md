@@ -21,7 +21,7 @@
 
 - **เวลาเริ่มทดสอบ:** 16:00
 - **เวลาเสร็จ:** 17:00
-- **Model link ใน Edge Impulse:** _________________
+- **Model link ใน Edge Impulse:** https://studio.edgeimpulse.com/studio/1012481
 - **สภาพแวดล้อมที่ทดสอบ:** มีเสียงรบกวน
 - **Output ที่ใช้ทดสอบ:** arudion
 - **Threshold ที่ใช้ (ถ้ามี):** -
