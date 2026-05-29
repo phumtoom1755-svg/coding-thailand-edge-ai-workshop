@@ -39,7 +39,7 @@
 
 เช่น: ต้องการ privacy / ไม่มีเน็ตในชนบท / ต้อง response < 1 วินาที
 ```
-
+ข้อมูลส่วนตัวปลอดภัยกว่า   ใช้เน็ตน้อยกว่า   ตอบสนองเร็วกว่า
 ---
 
 ## 💎 2. Value Proposition
@@ -121,7 +121,7 @@
 
 - [ ] ✅ Functionality: ________________________
 - [ ] ✅ Accuracy: 50% ขึ้นไป
-- [ ] ✅ Response time: ภายใน ____ms
+- [ ] ✅ Response time: ภายใน 1-2 ms
 - [ ] ✅ ทดสอบจริงในห้องแล้วทำงานได้
 - [ ] ✅ User เข้าใจในการดูครั้งแรก
 
@@ -155,7 +155,9 @@
 | | Hustler | Documentation + Pitch deck + Idea validation |
 
 ---
-
+| | Hacker |  |
+| | Hipster |  |
+| | Hustler |  |
 ## 🌟 9. Stretch Goals (ถ้ามีเวลา)
 
 ถ้าทุกอย่างเสร็จเร็ว จะทำอะไรเพิ่ม?
